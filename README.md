@@ -25,7 +25,7 @@ A simple Python console game where the player tries to guess a randomly generate
 
 ## 🖼️ Screenshot
 
-![Guess the Number Screenshot](screenshot.png)
+![Guess the Number Screenshot](Screenshot\ From\ 2026-01-18\ 10-01-15.png)
 
 ---
 
